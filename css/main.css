@@ -191,31 +191,7 @@ font-family: "Cormorant", serif;
 
 }
 
-/* 
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: var(--secondary-color);
-  height: 9rem;
-  position: sticky;
-  top: 0;
-  opacity: 0.96;
-  z-index: 999;
-} */
 
-/* .header__box {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-} */
-
-/* .logo-img {
-  width: 6rem;
-  margin: 0 4rem;
-} */
-
-/* .main-nav__list, */
 .footer-nav__list {
   display: flex;
   gap: 3rem;
@@ -236,27 +212,6 @@ font-family: "Cormorant", serif;
   color: var(--white-color);
 }
 
-/* .header__box2 {
-  display: flex;
-  align-items: center;
-  gap: 3rem;
-  margin-right: 4rem;
-} */
-
-/* #login,
-#signUp {
-  font-family: inherit;
-  background-color: var(--primary-color);
-  color: var(--white-color);
-  border: none;
-  font-size: 1.6rem;
-  font-weight: 700;
-  width: 10rem;
-  padding: 1rem 2rem;
-  cursor: pointer;
-  margin-right: 0.5rem;
-  transition: all 0.3s;
-} */
 
 #login:hover,
 #signUp:hover {
@@ -285,10 +240,6 @@ font-family: "Cormorant", serif;
   color: var(--white-color);
 }
 
-/* .hamburger {
-  display: none;
-  cursor: pointer;
-} */
 
 .bar {
   display: block;
